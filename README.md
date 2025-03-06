@@ -69,12 +69,62 @@ Why Waterfall? Fixed regulatory and security requirements demand thorough docume
 - Design and Implementation
 - Development
 - Testing
+- Maintenance
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+
+Project scope outlines the goals, deliverables, tasks, deadlines, and constraints of a project. A well-defined scope helps in:
+✅ Preventing Scope Creep – Avoids unnecessary features that increase costs and timelines.
+✅ Setting Clear Expectations – Aligns team members and stakeholders on objectives.
+✅ Improving Resource Allocation – Ensures the right budget, tools, and personnel are assigned.
+✅ Enhancing Risk Management – Identifies potential risks early to mitigate delays.
+✅ Providing a Basis for Progress Tracking – Helps measure project success against predefined goals.
+
+A Work Breakdown Structure (WBS) is a hierarchical breakdown of a project into smaller, manageable tasks. It visually organizes work into phases, deliverables, and tasks.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+
+A well-structured project schedule provides numerous advantages that contribute to the success of a project. Some key benefits include:
+- Clear Project Timeline
+- Improved Resource Management
+- Better Task Coordination
+- Risk Identification & Mitigation
+- Enhanced Team Communication & Accountability
+- Stakeholder Transparency & Reporting
+
+### A Gantt chart is a visual project management tool that represents the project schedule in a timeline format. It helps in the following ways:
+
+- Visual Representation of Tasks & Durations
+- Task Dependencies & Sequencing
+- Progress Tracking & Adjustments
+- Resource Allocation & Workload Balancing
+- Milestones & Deadlines Monitoring
+
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+One of the core issues my software aims to address is being able to keep track of customers and employees alike. This is significant to them because this is a very important and delicate problem in their industry
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is a crucial first step in software development. Without a well-defined problem statement, a project can face scope creep, inefficiencies, and wasted resources. It helps to:
+
+1. Prevents Misunderstandings & Scope Creep
+2. Enables Better Requirement Gathering
+3. Leads to Efficient Architecture & Design
+4. Improves Time & Resource Management
+5. Supports Better Testing & Validation
+6. Simplifies Debugging & Future Maintenance
+
+
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would decribe my softwae solution using visual aid using animations.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features is that it give my clients autonomous power on how much they are willing to expand on their business.
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+I do not have such information at this very moment.
+
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+it can help one look for loop holes and weaknesses in the existing solutions and come up with something better to be used.
